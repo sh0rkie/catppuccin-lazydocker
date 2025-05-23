@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/sh0rkie/catppuccin-lazy-docker/stargazers"><img src="https://img.shields.io/github/stars/sh0rkie/catppuccin-lazy-docker?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/sh0rkie/catppuccin-lazy-docker/issues"><img src="https://img.shields.io/github/issues/sh0rkie/catppuccin-lazy-docker?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/sh0rkie/catppuccin-lazy-docker/graphs/contributors"><img src="https://img.shields.io/github/contributors/sh0rkie/catppuccin-lazy-docker?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/sh0rkie/catppuccin-lazydocker/stargazers"><img src="https://img.shields.io/github/stars/sh0rkie/catppuccin-lazydocker?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/sh0rkie/catppuccin-lazydocker/issues"><img src="https://img.shields.io/github/issues/sh0rkie/catppuccin-lazydocker?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/sh0rkie/catppuccin-lazydocker/graphs/contributors"><img src="https://img.shields.io/github/contributors/sh0rkie/catppuccin-lazydocker?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
