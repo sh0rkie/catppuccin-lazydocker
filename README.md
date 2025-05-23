@@ -51,7 +51,7 @@ lazydocker default config directories:
 ## 🙋 FAQ
 
 - Q: **_"Why is the background wrong?"_**\
-  A: Lazygit uses your terminal background. You should set it to the relevant background
+  A: Lazydocker uses your terminal background. You should set it to the relevant background
   for your theme.
 
 ## 💝 Thanks to
